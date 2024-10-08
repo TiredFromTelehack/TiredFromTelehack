@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: italian
 - 💞️ I’m looking to collaborate on: nothing unless its cool
 - 📫 How to reach me: you dont
-- 😄 Pronouns: I'm not gay so i dont any
+- 😄 Pronouns: I'm not gay so i dont have any
 - ⚡ Fun fact: I'm extremely based and i live in Long Beach, California and i am 20 years old
 
 <!---
