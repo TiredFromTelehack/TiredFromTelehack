@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @TiredFromTelehack
+- 👋 Hi, I’m @Klez2003
 - 👀 I’m interested in everything i think is cool
 - 🌱 I’m currently learning: italian
-- 💞️ I’m looking to collaborate on: nothing unless its cool
-- 📫 How to reach me: you dont
-- 😄 Pronouns: I'm not gay so i dont have any
-- ⚡ Fun fact: I'm extremely based and i live in Long Beach, California and i am 20 years old
+- ⚡ Fun fact: i live in Long Beach, California, i am 21 years old
 
 <!---
 TiredFromTelehack/TiredFromTelehack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
